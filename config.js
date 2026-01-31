@@ -33,25 +33,25 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "dove mi porti la prossima settimana?", // The big question!
+            yesBtn: "dove vuoi amore mio",                                             // Text for "Yes" button
+            noBtn: "decidi tu"                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "WOOOOW ma è tantissima! ",  // Shows when they go past 5000%
+        high: "Minchia",              // Shows when they go past 1000%
+        normal: "almeno 3 strati?"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "bravo! ti sei guadagnato un giorno senza litigi!",
+        message: "dai ti meriti un caffe fatto da me",
+        emojis: "☕️"  // These will bounce around
     },
 
     // Color scheme for the website
