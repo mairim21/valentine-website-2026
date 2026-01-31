@@ -9,12 +9,12 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "vuoi venire a fare la spesa con me domani??",
+    pageTitle: "il nostro SITO",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        hearts: ['👨🏼‍🦯‍➡️', '👩‍❤️‍👨', '💝', '💗', '💓'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -22,13 +22,13 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "pensi che io sia stupida?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "quando pensi che farai il termosifone del bagno?",                                    // First interaction
+            yesBtn: "mai",                                             // Text for "Yes" button
+            noBtn: "cosa?",                                               // Text for "No" button
+            secretAnswer: "non lo so fare"           // Secret hover message
         },
         second: {
-            text: "ti piacciono i miei piedi?",                          // For the love meter
+            text: "quanto cartaigienica consumi alla settiman",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
